@@ -1,2 +1,2 @@
 # GESPRO
-Prácticas de Gestión de Proyectos
+Prácticas de Gestión de ProyectosAAA
