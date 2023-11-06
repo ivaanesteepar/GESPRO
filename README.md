@@ -1,4 +1,4 @@
 # GESPRO
-Iván Estépar Rebollo  ier1003@alu.ubu.es
-Melany Loma Chinchin
-Jimena Arnaiz González jag1033@alu.ubu.es
+Iván Estépar Rebollo 
+Melany Loma Chinchin mlc1016@alu.ubu.es
+Jimena Arnaiz González
