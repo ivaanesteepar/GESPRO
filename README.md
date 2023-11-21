@@ -1,4 +1,3 @@
 # GESPRO
-Iván Estépar Rebollo  ier1003@alu.ubu.es
-Melany Loma Chinchin
-Jimena Arnaiz González
+URL GITHUB: https://github.com/ivaanesteepar/GESPRO_4 
+URL JIRA: https://ier1003.atlassian.net/jira/software/projects/GESP1/boards/2/backlog 
