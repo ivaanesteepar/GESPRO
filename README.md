@@ -1,5 +1,10 @@
 # GESPRO
-Iván Estépar Rebollo ier1003@alu.ubu.es
-Melany Loma Chinchin
-Jimena Arnaiz González jag1033@alu.ubu.es
-Carla Saiz Delgado csd1006@alu.ubu.ess
+
+URL GITHUB: https://github.com/ivaanesteepar/GESPRO_4
+
+URL JIRA: https://ier1003.atlassian.net/jira/software/projects/GESP1/boards/2/backlog
+
+Historia empezada el 23/11/2023
+Historia de Desarrollo de pagina web empezada el 23/11/2023
+
+IMAGENES
