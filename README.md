@@ -1,4 +1,4 @@
 # GESPRO
-Iván Estépar Rebollo
+Ivan Estépar Rebollo ier1003@alu.ubu.es
 
 
