@@ -1,5 +1,1 @@
-# GESPRO
-Iván Estépar Rebollo
-Melany Loma Chinchin
-Jimena Arnaiz González
-Carla Saiz Delgado
+Historia de Cesta de la compra empezada el 24/11/2023
