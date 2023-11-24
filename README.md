@@ -10,4 +10,3 @@ Historia de Desarrollo de la pagina web empezada el 23/11/2023
 
 
 
-IMAGENES
