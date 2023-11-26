@@ -17,3 +17,7 @@ Historia de Cesta de la compra finalizada el 25/11/2023
     <img src="Captura.PNG" alt="Captura 1" width="260"/>
     <img src="Captura2.PNG" alt="Captura 2" width="500"/>
 </div>
+
+¿Qué es el proyecto?
+El proyecto consiste en la venta de fundas de ordenador, ofreciendo una variedad de opciones para diferentes tamaños y modelos de ordenador. Las fundas están diseñadas para proporcionar protección contra golpes, arañazos y elementos externos, manteniendo los dispositivos electrónicos seguros y en óptimas condiciones
+
