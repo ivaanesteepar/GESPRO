@@ -1,6 +1,5 @@
 # GESPRO
 URL GITHUB: https://github.com/ivaanesteepar/GESPRO_4
-
 URL JIRA: https://ier1003.atlassian.net/jira/software/projects/GESP1/boards/2/backlog
 
 Historia de Diferentes formatos de la funda empezada el 23/11/2023
@@ -21,3 +20,5 @@ Historia de Cesta de la compra finalizada el 25/11/2023
 ¿Qué es el proyecto?
 El proyecto consiste en la venta de fundas de ordenador, ofreciendo una variedad de opciones para diferentes tamaños y modelos de ordenador. Las fundas están diseñadas para proporcionar protección contra golpes, arañazos y elementos externos, manteniendo los dispositivos electrónicos seguros y en óptimas condiciones
 
+¿Por qué el proyecto es útil?
+El proyecto es útil porque brinda una solución práctica y efectiva para proteger los ordenadores portátiles de posibles daños. Las fundas no solo ofrecen seguridad física, sino que también pueden tener diseños atractivos y personalizados, brindando a los usuarios la oportunidad de expresar su estilo mientras protegen sus dispositivos.
