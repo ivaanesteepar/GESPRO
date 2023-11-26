@@ -13,4 +13,4 @@ Historia de Tienda fisica finalizada el 26/11/2023
 Historia de Cesta de la compra empezada el 24/11/2023
 Historia de Cesta de la compra finalizada el 25/11/2023
 
-<img src="Captura.PNG" alt="PROYECTO">
+<img src="Captura.PNG" alt="PROYECTO"> <img src="Captura2.PNG" alt="PROYECTO"> <img src="Captura3.PNG" alt="PROYECTO">
