@@ -14,7 +14,7 @@ Historia de Cesta de la compra empezada el 24/11/2023
 Historia de Cesta de la compra finalizada el 25/11/2023
 
 <div style="display:flex; justify-content:space-between;">
-    <img src="Captura.PNG" alt="Texto alternativo 1" width="300"/>
-    <img src="Captura2.PNG" alt="Texto alternativo 2" width="450"/>
-    <img src="Captura3.PNG" alt="Texto alternativo 2" width="570"/>
+    <img src="Captura.PNG" alt="Captura 1" width="300"/>
+    <img src="Captura2.PNG" alt="Captura 2" width="450"/>
+    <img src="Captura3.PNG" alt="Captura 3" width="570"/>
 </div>
