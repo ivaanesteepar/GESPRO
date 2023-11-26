@@ -13,4 +13,4 @@ Historia de Tienda fisica finalizada el 26/11/2023
 Historia de Cesta de la compra empezada el 24/11/2023
 Historia de Cesta de la compra finalizada el 25/11/2023
 
-![PROYECTO](C:\ASIGNATURAS 3º\1 SEMESTRE\Gestión de proyectos\github_gespro\GESPRO_4\Captura-1.PNG)
+<img src="C:\ASIGNATURAS 3º\1 SEMESTRE\Gestión de proyectos\github_gespro\GESPRO_4\Captura-1.PNG" alt="PROYECTO">
