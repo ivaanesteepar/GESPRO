@@ -1,4 +1,2 @@
-# GESPRO
-Iván Estépar Rebollo
-Melany Loma Chinchin
-Jimena Arnaiz González jag1033@alu.ubu.es
+¿Qué es el proyecto?
+El proyecto consiste en la venta de fundas de ordenador, ofreciendo una variedad de opciones para diferentes tamaños y modelos de ordenador. Las fundas están diseñadas para proporcionar protección contra golpes, arañazos y elementos externos, manteniendo los dispositivos electrónicos seguros y en óptimas condiciones
