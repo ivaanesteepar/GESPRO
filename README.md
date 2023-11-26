@@ -14,7 +14,6 @@ Historia de Cesta de la compra finalizada el 25/11/2023
 
 <div style="display:flex; justify-content:space-between;">
     <img src="Captura.PNG" alt="Captura 1" width="260"/>
-    <img src="Captura2.PNG" alt="Captura 2" width="500"/>
 </div>
 
 ¿Qué es el proyecto?
