@@ -9,6 +9,8 @@ Historia de Tienda fisica empezada el 24/11/2023
 <br>
 Historia de Tienda fisica finalizada el 27/11/2023
 
+Historia de Cesta de la compra empezada el 24/11/2023
+Historia de Cesta de la compra finalizada el 27/11/2023
 
 ## Pasos realizados hasta el momento
 Lo primero que hicimos fue poner en común nuestras ideas de proyecto y realizar una votación, siendo 1 la peor idea y 3 la mejor.
@@ -65,3 +67,4 @@ Los usuarios pueden recibir ayuda con el proyecto a través de recursos en líne
 ### ❓ __¿Quién mantiene y contribuye con el proyecto?__ <br>
 El equipo es mantenido por nuestro equipo que incluye diseñador, desarrollador web, profesional de atención al cliente y marketing. Cada miembro desempeña un papel vital: los diseñadores crean fundas funcionales y atractivas, los desarrolladores mantienen el sitio web, el equipo de atención al cliente asiste a los usuarios y el equipo de marketing promociona el proyecto. La colaboración efectiva de estos garantiza el éxito continuo del proyecto.
 El 27 de noviembre de 2023 se finalizó la historia de usuario "Tienda Física"
+
