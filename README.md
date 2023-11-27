@@ -2,6 +2,7 @@
 [![Contributors](https://img.shields.io/github/contributors/ivaanesteepar/GESPRO_4)](https://github.com/ivaanesteepar/GESPRO_4/graphs/contributors)
 [![GitHub watchers](https://badgen.net/github/watchers/ivaanesteepar/GESPRO_4)](https://GitHub.com/ivaanesteepar/GESPRO_4/watchers)
 [![Jira](https://badgen.net/badge/icon/jira?icon=jira&label)]([https://https://jira.com/](https://ier1003.atlassian.net/jira/software/projects/GESP1/boards/2/backlog))
+[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
 
 URL GITHUB: https://github.com/ivaanesteepar/GESPRO_4
 <br>
