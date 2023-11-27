@@ -1,10 +1,11 @@
 # GESPRO
 [![Contributors](https://img.shields.io/github/contributors/ivaanesteepar/GESPRO_4)](https://github.com/ivaanesteepar/GESPRO_4/graphs/contributors)
 
-URL GITHUB: https://github.com/ivaanesteepar/GESPRO_4
+🟠 URL GITHUB: https://github.com/ivaanesteepar/GESPRO_4
 <br>
-URL JIRA: https://ier1003.atlassian.net/jira/software/projects/GESP1/boards/2/backlog
+🟠 URL JIRA: https://ier1003.atlassian.net/jira/software/projects/GESP1/boards/2/backlog
 
+## Historias de usuario
 Historia de Diferentes formatos de la funda empezada el 23/11/2023
 <br>
 Historia de Diferentes formatos de la funda finalizada el 26/11/2023
@@ -30,7 +31,7 @@ De esta votación salió como ganadora la idea de venta de fundas personalizadas
 
 Después, definimos una serie de funcionalidades para el proyecto ganador para luego elegir las 15 mejores mediante una votación (las funcionalidades con estrella fueron las elegidas finalmente).
 
-CUESTIONES
+## Cuestiones
 __¿Qué es el proyecto?__
 El proyecto consiste en la venta de fundas de ordenador, ofreciendo una variedad de opciones para diferentes tamaños y modelos de ordenador. Las fundas están diseñadas para proporcionar protección contra golpes, arañazos y elementos externos, manteniendo los dispositivos electrónicos seguros y en óptimas condiciones
 
