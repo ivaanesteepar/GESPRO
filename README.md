@@ -32,7 +32,6 @@ Poco a poco vamos poniendo las historias en curso.
 <div style="display:flex; justify-content:space-between;">
     <img src="Captura4.PNG" alt="Captura 1" width="500"/>
 </div>
-Una vez llegado a la fecha de finalización decidida por nosotros, se terminan.
 <div style="display:flex; justify-content:space-between;">
     <img src="Captura5.PNG" alt="Captura 1" width="500"/>
 </div>
@@ -42,7 +41,7 @@ Una vez llegado a la fecha de finalización decidida por nosotros, se terminan.
 <div style="display:flex; justify-content:space-between;">
     <img src="Captura7.PNG" alt="Captura 1" width="500"/>
 </div>
-
+Una vez llegado a la fecha de finalización decidida por nosotros, se terminan.
 <div style="display:flex; justify-content:space-between;">
     <img src="Captura8.PNG" alt="Captura 1" width="500"/>
 </div>
