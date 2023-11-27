@@ -38,6 +38,42 @@ De esta votación salió como ganadora la idea de venta de fundas personalizadas
 
 Después, definimos una serie de funcionalidades para el proyecto ganador para luego elegir las 15 mejores mediante una votación (las funcionalidades con estrella fueron las elegidas finalmente).
 
+<div style="display:flex; justify-content:space-between;">
+    <img src="Captura3.PNG" alt="Captura 1" width="500"/>
+</div>
+
+<div style="display:flex; justify-content:space-between;">
+    <img src="Captura4.PNG" alt="Captura 1" width="500"/>
+</div>
+
+<div style="display:flex; justify-content:space-between;">
+    <img src="Captura5.PNG" alt="Captura 1" width="500"/>
+</div>
+
+<div style="display:flex; justify-content:space-between;">
+    <img src="Captura6.PNG" alt="Captura 1" width="500"/>
+</div>
+
+<div style="display:flex; justify-content:space-between;">
+    <img src="Captura7.PNG" alt="Captura 1" width="500"/>
+</div>
+
+<div style="display:flex; justify-content:space-between;">
+    <img src="Captura8.PNG" alt="Captura 1" width="500"/>
+</div>
+
+<div style="display:flex; justify-content:space-between;">
+    <img src="Captura9.PNG" alt="Captura 1" width="500"/>
+</div>
+
+<div style="display:flex; justify-content:space-between;">
+    <img src="Captura10.PNG" alt="Captura 1" width="500"/>
+</div>
+
+<div style="display:flex; justify-content:space-between;">
+    <img src="Captura11.PNG" alt="Captura 1" width="500"/>
+</div>
+
 ## Cuestiones
 
 ❓ **¿Qué es el proyecto?**
