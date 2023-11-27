@@ -1,4 +1,6 @@
 # GESPRO
+[![Contributors](https://img.shields.io/github/contributors/jenkinsci/conventional-commits-plugin.svg)](https://github.com/ivaanesteepar/GESPRO_4/graphs/contributors)
+
 URL GITHUB: https://github.com/ivaanesteepar/GESPRO_4
 <br>
 URL JIRA: https://ier1003.atlassian.net/jira/software/projects/GESP1/boards/2/backlog
