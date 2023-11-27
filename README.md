@@ -21,7 +21,14 @@ Historia de Cesta de la compra finalizada el 25/11/2023
 
 <div style="display:flex; justify-content:space-between;">
     <img src="Captura.PNG" alt="Captura 1" width="500"/>
+
+Lo primero que hicimos fue poner en común nuestras ideas de proyecto y realizar una votación, siendo 1 la peor idea y 3 la mejor.
+De esta votación salió como ganadora la idea de venta de fundas personalizadas de ordenador.
+  
     <img src="Captura2.PNG" alt="Captura 2" width="500"/>
+  
+Después, definimos una serie de funcionalidades para el proyecto ganador para luego elegir las 15 mejores mediante una votación (las funcionalidades con estrella fueron las elegidas finalmente).
+  
 </div>
 
 __¿Qué es el proyecto?__
@@ -35,3 +42,4 @@ Los usuarios pueden comenzar explorando la variedad de fundas de ordenador dispo
 
 __¿Donde pueden recibir ayuda los usuarios con tu proyecto?__
 Los usuarios pueden recibir ayuda con el proyecto a través de recursos en línea, como una sección de preguntas frecuentes en el sitio web, por el correo electrónico para consultas específicas. Además, se puede proporcionar un servicio de atención al cliente mediante chat en vivo en el sitio web, asegurando diversas opciones para abordar sus necesidades y preguntas.
+
