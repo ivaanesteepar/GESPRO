@@ -4,7 +4,8 @@
 🟠 URL GITHUB: https://github.com/ivaanesteepar/GESPRO_4
 <br>
 🟠 URL JIRA: https://ier1003.atlassian.net/jira/software/projects/GESP1/boards/2/backlog
-## Historias de usuario
+
+## ✍️ Historias de usuario ✍️
 Historia de Tienda fisica empezada el 24/11/2023
 <br>
 Historia de Tienda fisica finalizada el 27/11/2023
@@ -13,7 +14,7 @@ Historia de Cesta de la compra empezada el 24/11/2023
 <br>
 Historia de Cesta de la compra finalizada el 27/11/2023
 
-## Pasos realizados hasta el momento
+## 👣 Pasos realizados hasta el momento 👣
 Lo primero que hicimos fue poner en común nuestras ideas de proyecto y realizar una votación, siendo 1 la peor idea y 3 la mejor.
 De esta votación salió como ganadora la idea de venta de fundas personalizadas de ordenador.
 <div style="display:flex; justify-content:space-between;">
@@ -59,7 +60,7 @@ El proceso de poner en curso y finalizar las historias de usuario lo representam
 añadiendo en su readme cuándo se pone en curso y cuándo se finaliza la historia, haciendo merge con la rama desarrollo 
 para que se reúnan las modificaciones de cada uno.
 
-## Cuestiones <br>
+## Cuestiones ❔ <br> 
 ### ❓ __¿Qué es el proyecto?__ <br>
 El proyecto consiste en la venta de fundas de ordenador, ofreciendo una variedad de opciones para diferentes tamaños y modelos de ordenador. Las fundas están diseñadas para proporcionar protección contra golpes, arañazos y elementos externos, manteniendo los dispositivos electrónicos seguros y en óptimas condiciones
 
