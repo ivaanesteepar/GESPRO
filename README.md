@@ -1,5 +1,6 @@
 # GESPRO
-[![Contributors](https://img.shields.io/github/contributors/ivaanesteepar/GESPRO_4)](https://github.com/ivaanesteepar/GESPRO_4/graphs/contributors)
+![Contributors](https://img.shields.io/github/contributors/ivaanesteepar/GESPRO_4)](https://github.com/ivaanesteepar/GESPRO_4/graphs/contributors)
+![GitHub watchers](https://img.shields.io/github/watchers/ivaanesteepar/GESPRO_4)
 
 URL GITHUB: https://github.com/ivaanesteepar/GESPRO_4
 <br>
