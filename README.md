@@ -32,7 +32,7 @@ Después, definimos una serie de funcionalidades para el proyecto ganador para l
 <div style="display:flex; justify-content:space-between;">
     <img src="Captura7.PNG" alt="Captura 1" width="500"/>
 </div>
-El 23 de Noviembre de 2023 se empezó la historia de usuario "Tienda Física"
+<br>El 23 de Noviembre de 2023 se empezó la historia de usuario "Tienda Física"<br>
 <div style="display:flex; justify-content:space-between;">
     <img src="Captura8.PNG" alt="Captura 1" width="500"/>
 </div>
