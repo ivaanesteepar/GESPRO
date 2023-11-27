@@ -23,12 +23,16 @@ Después, definimos una serie de funcionalidades para el proyecto ganador para l
 <div style="display:flex; justify-content:space-between;">
     <img src="Captura2.PNG" alt="Captura 2" width="500"/>
 </div>
+Una vez hechas las historias de usuario en miro, en jira creamos 4 de esas historias para completar el primer sprint.
+Por defecto están en estado "por hacer".
 <div style="display:flex; justify-content:space-between;">
     <img src="Captura3.PNG" alt="Captura 1" width="500"/>
 </div>
+Poco a poco vamos poniendo las historias en curso.
 <div style="display:flex; justify-content:space-between;">
     <img src="Captura4.PNG" alt="Captura 1" width="500"/>
 </div>
+Una vez llegado a la fecha de finalización decidida por nosotros, se terminan.
 <div style="display:flex; justify-content:space-between;">
     <img src="Captura5.PNG" alt="Captura 1" width="500"/>
 </div>
@@ -52,6 +56,10 @@ Después, definimos una serie de funcionalidades para el proyecto ganador para l
     <img src="Captura11.PNG" alt="Captura 1" width="500"/>
 </div>
 
+El proceso de poner en curso y finalizar las historias de usuario lo representamos creando cada uno una rama y
+añadiendo en su readme cuándo se pone en curso y cuándo se finaliza la historia, haciendo merge con la rama desarrollo 
+para que se reúnan las modificaciones de cada uno.
+
 ## Cuestiones <br>
 ### ❓ __¿Qué es el proyecto?__ <br>
 El proyecto consiste en la venta de fundas de ordenador, ofreciendo una variedad de opciones para diferentes tamaños y modelos de ordenador. Las fundas están diseñadas para proporcionar protección contra golpes, arañazos y elementos externos, manteniendo los dispositivos electrónicos seguros y en óptimas condiciones
@@ -68,4 +76,3 @@ Los usuarios pueden recibir ayuda con el proyecto a través de recursos en líne
 ### ❓ __¿Quién mantiene y contribuye con el proyecto?__ <br>
 El equipo es mantenido por nuestro equipo que incluye diseñador, desarrollador web, profesional de atención al cliente y marketing. Cada miembro desempeña un papel vital: los diseñadores crean fundas funcionales y atractivas, los desarrolladores mantienen el sitio web, el equipo de atención al cliente asiste a los usuarios y el equipo de marketing promociona el proyecto. La colaboración efectiva de estos garantiza el éxito continuo del proyecto.
 El 27 de noviembre de 2023 se finalizó la historia de usuario "Tienda Física"
-
