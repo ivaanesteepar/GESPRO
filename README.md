@@ -29,8 +29,6 @@ Después, definimos una serie de funcionalidades para el proyecto ganador para l
 <div style="display:flex; justify-content:space-between;">
     <img src="Captura6.PNG" alt="Captura 1" width="500"/>
 </div>
-
-<br>El 23 de Noviembre de 2023 se empezó la historia de usuario "Tienda Física"
 <div style="display:flex; justify-content:space-between;">
     <img src="Captura7.PNG" alt="Captura 1" width="500"/>
 </div>
