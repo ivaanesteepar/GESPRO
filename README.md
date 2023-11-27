@@ -22,3 +22,9 @@ El proyecto consiste en la venta de fundas de ordenador, ofreciendo una variedad
 
 __¿Por qué el proyecto es útil?__
 El proyecto es útil porque brinda una solución práctica y efectiva para proteger los ordenadores portátiles de posibles daños. Las fundas no solo ofrecen seguridad física, sino que también pueden tener diseños atractivos y personalizados, brindando a los usuarios la oportunidad de expresar su estilo mientras protegen sus dispositivos.
+
+__¿Como pueden comenzar los usuarios con el proyecto?__
+Los usuarios pueden comenzar explorando la variedad de fundas de ordenador disponibles en el proyecto, seleccionando la opción que mejor se adapte a sus necesidades de protección y estilo. La compra se realiza de manera sencilla a través del sitio web, con opciones de personalización si se desea. Una vez adquirida, la funda será enviada a la dirección especificada, permitiendo a los usuarios proteger sus ordenadores portátiles de manera efectiva y con un toque personalizado.
+
+__¿Donde pueden recibir ayuda los usuarios con tu proyecto?__
+Los usuarios pueden recibir ayuda con el proyecto a través de recursos en línea, como una sección de preguntas frecuentes en el sitio web, por el correo electrónico para consultas específicas. Además, se puede proporcionar un servicio de atención al cliente mediante chat en vivo en el sitio web, asegurando diversas opciones para abordar sus necesidades y preguntas.
