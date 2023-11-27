@@ -58,4 +58,4 @@ Los usuarios pueden recibir ayuda con el proyecto a través de recursos en líne
 
 ❓ **¿Quién mantiene y contribuye con el proyecto?**
 <br>
-El equipo es mantenido por nuestro equipo que incluye diseñador, desarrollador web, profesional de atención al cliente y markting. Cada miembro desempeña un papel vital: los diseñadores crean fundas funcionales y atractivas, los desarrolladores mantienen el sitio web, el equipo de atención al cliente asiste a los usuarios y el equipo de marketing promociona el proyecto. La colaboración efectiva de estos garantiza el éxito continuo del proyecto.
+El equipo es mantenido por nuestro equipo que incluye diseñador, desarrollador web, profesional de atención al cliente y marketing. Cada miembro desempeña un papel vital: los diseñadores crean fundas funcionales y atractivas, los desarrolladores mantienen el sitio web, el equipo de atención al cliente asiste a los usuarios y el equipo de marketing promociona el proyecto. La colaboración efectiva de estos garantiza el éxito continuo del proyecto.
