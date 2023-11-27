@@ -1,5 +1,5 @@
 # GESPRO
-[![Contributors](https://img.shields.io/github/contributors/jenkinsci/conventional-commits-plugin.svg)](https://github.com/ivaanesteepar/GESPRO_4/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/ivaanesteepar/GESPRO_4)](https://github.com/ivaanesteepar/GESPRO_4/graphs/contributors)
 
 URL GITHUB: https://github.com/ivaanesteepar/GESPRO_4
 <br>
