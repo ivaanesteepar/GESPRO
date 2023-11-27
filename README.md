@@ -30,7 +30,7 @@ De esta votación salió como ganadora la idea de venta de fundas personalizadas
 
 Después, definimos una serie de funcionalidades para el proyecto ganador para luego elegir las 15 mejores mediante una votación (las funcionalidades con estrella fueron las elegidas finalmente).
   
-<span style="color:blue"__¿Qué es el proyecto?__</span>
+<span style="color:blue">__¿Qué es el proyecto?__</span>
 El proyecto consiste en la venta de fundas de ordenador, ofreciendo una variedad de opciones para diferentes tamaños y modelos de ordenador. Las fundas están diseñadas para proporcionar protección contra golpes, arañazos y elementos externos, manteniendo los dispositivos electrónicos seguros y en óptimas condiciones
 
 __¿Por qué el proyecto es útil?__
