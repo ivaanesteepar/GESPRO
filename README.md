@@ -21,16 +21,15 @@ Historia de Cesta de la compra finalizada el 25/11/2023
 
 <div style="display:flex; justify-content:space-between;">
     <img src="Captura.PNG" alt="Captura 1" width="500"/>
-
+</div>
 Lo primero que hicimos fue poner en común nuestras ideas de proyecto y realizar una votación, siendo 1 la peor idea y 3 la mejor.
 De esta votación salió como ganadora la idea de venta de fundas personalizadas de ordenador.
-  
+<div style="display:flex; justify-content:space-between;">
     <img src="Captura2.PNG" alt="Captura 2" width="500"/>
-  
-Después, definimos una serie de funcionalidades para el proyecto ganador para luego elegir las 15 mejores mediante una votación (las funcionalidades con estrella fueron las elegidas finalmente).
-  
 </div>
 
+Después, definimos una serie de funcionalidades para el proyecto ganador para luego elegir las 15 mejores mediante una votación (las funcionalidades con estrella fueron las elegidas finalmente).
+  
 __¿Qué es el proyecto?__
 El proyecto consiste en la venta de fundas de ordenador, ofreciendo una variedad de opciones para diferentes tamaños y modelos de ordenador. Las fundas están diseñadas para proporcionar protección contra golpes, arañazos y elementos externos, manteniendo los dispositivos electrónicos seguros y en óptimas condiciones
 
