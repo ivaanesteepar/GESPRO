@@ -4,7 +4,7 @@
 🟠 URL GITHUB: https://github.com/ivaanesteepar/GESPRO_4
 <br>
 🟠 URL JIRA: https://ier1003.atlassian.net/jira/software/projects/GESP1/boards/2/backlog
-## Historias de usuario
+## ✍️ Historias de usuario ✍️
 Historia de Tienda fisica empezada el 27/11/2023
 <br>
 Historia de Tienda fisica finalizada el 28/11/2023
@@ -14,8 +14,8 @@ Historia de Cesta de la compra empezada el 24/11/2023
 Historia de Cesta de la compra finalizada el 27/11/2023
 
 ## 👣 Pasos realizados hasta el momento 👣
-### Backlog
-Lo primero que hicimos fue poner en común nuestras ideas de proyecto y realizar una votación, siendo 1 la peor idea y 3 la mejor.
+### ✏ Backlog
+Lo priumero que hicimos fue poner en común nuestras ideas de proyecto y realizar una votación, siendo 1 la peor idea y 3 la mejor.
 De esta votación salió como ganadora la idea de venta de fundas personalizadas de ordenador.
 <div style="display:flex; justify-content:space-between;">
     <img src="Captura.PNG" alt="Captura 1" width="500"/>
@@ -67,13 +67,13 @@ El proceso de poner en curso y finalizar las historias de usuario lo representam
 añadiendo en su readme cuándo se pone en curso y cuándo se finaliza la historia, haciendo merge con la rama desarrollo 
 para que se reúnan las modificaciones de cada uno.
 
-### Cronograma
+### ✏ Cronograma
 Creamos los epics acorde a todas las historias de usuario definidas en miro.
 <div style="display:flex; justify-content:space-between;">
     <img src="Captura12.PNG" alt="Captura 1" width="500"/>
 </div>
 
-### Informe del trabajo
+### ✏ Informe del trabajo
 Gráfico resumen del primer sprint. Cada historia de usuario se completó en el tiempo indicado.
 <div style="display:flex; justify-content:space-between;">
     <img src="Captura13.PNG" alt="Captura 13" width="500"/>
