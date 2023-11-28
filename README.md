@@ -19,6 +19,7 @@ De esta votación salió como ganadora la idea de venta de fundas personalizadas
 <div style="display:flex; justify-content:space-between;">
     <img src="Captura.PNG" alt="Captura 1" width="500"/>
 </div>
+<br>
 Después, definimos una serie de funcionalidades para el proyecto ganador para luego elegir las 15 mejores mediante una votación (las funcionalidades con estrella fueron las elegidas finalmente).
 <div style="display:flex; justify-content:space-between;">
     <img src="Captura2.PNG" alt="Captura 2" width="500"/>
