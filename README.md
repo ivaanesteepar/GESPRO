@@ -73,7 +73,7 @@ Creamos los epics acorde a todas las historias de usuario definidas en miro.
     <img src="Captura12.PNG" alt="Captura 1" width="500"/>
 </div>
 
-## Informe del trabajo
+### Informe del trabajo
 Gráfico resumen del primer sprint. Cada historia de usuario se completó en el tiempo indicado.
 <div style="display:flex; justify-content:space-between;">
     <img src="Captura13.PNG" alt="Captura 13" width="500"/>
