@@ -2,10 +2,15 @@
 🟠 URL GITHUB: https://github.com/ivaanesteepar/GESPRO_4
 <br>
 🟠 URL JIRA: https://ier1003.atlassian.net/jira/software/projects/GESP1/boards/2/backlog
+
 ## ✍️ Historias de usuario ✍️
 Historia de Diferentes formatos de la funda empezada el 23/11/2023
 <br>
 Historia de Diferentes formatos de la funda finalizada el 27/11/2023
+<br><br>
+Historia de Desarrollo de la pagina web empezada el 23/11/2023
+<br>
+Historia de Desarrollo de pagina web finalizada el 27/11/2023
 <br><br>
 Historia de Tienda fisica empezada el 27/11/2023
 <br>
@@ -17,7 +22,7 @@ Historia de Cesta de la compra finalizada el 27/11/2023
 
 ## 👣 Pasos realizados hasta el momento 👣
 ### ✏ Backlog
-Lo priumero que hicimos fue poner en común nuestras ideas de proyecto y realizar una votación, siendo 1 la peor idea y 3 la mejor.
+Lo primero que hicimos fue poner en común nuestras ideas de proyecto y realizar una votación, siendo 1 la peor idea y 3 la mejor.
 De esta votación salió como ganadora la idea de venta de fundas personalizadas de ordenador.
 <div style="display:flex; justify-content:space-between;">
     <img src="Captura.PNG" alt="Captura 1" width="500"/>
