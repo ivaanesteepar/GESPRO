@@ -1,10 +1,12 @@
 # GESPRO
-[![Contributors](https://img.shields.io/github/contributors/ivaanesteepar/GESPRO_4)](https://github.com/ivaanesteepar/GESPRO_4/graphs/contributors)
-
 🟠 URL GITHUB: https://github.com/ivaanesteepar/GESPRO_4
 <br>
 🟠 URL JIRA: https://ier1003.atlassian.net/jira/software/projects/GESP1/boards/2/backlog
 ## ✍️ Historias de usuario ✍️
+Historia de Diferentes formatos de la funda empezada el 23/11/2023
+<br>
+Historia de Diferentes formatos de la funda finalizada el 27/11/2023
+<br><br>
 Historia de Tienda fisica empezada el 27/11/2023
 <br>
 Historia de Tienda fisica finalizada el 28/11/2023
