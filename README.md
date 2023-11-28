@@ -13,7 +13,7 @@ Historia de Cesta de la compra empezada el 24/11/2023
 <br>
 Historia de Cesta de la compra finalizada el 27/11/2023
 
-## Pasos realizados hasta el momento
+## 👣 Pasos realizados hasta el momento 👣
 Lo primero que hicimos fue poner en común nuestras ideas de proyecto y realizar una votación, siendo 1 la peor idea y 3 la mejor.
 De esta votación salió como ganadora la idea de venta de fundas personalizadas de ordenador.
 <div style="display:flex; justify-content:space-between;">
@@ -23,16 +23,19 @@ Después, definimos una serie de funcionalidades para el proyecto ganador para l
 <div style="display:flex; justify-content:space-between;">
     <img src="Captura2.PNG" alt="Captura 2" width="500"/>
 </div>
+<br>
 Una vez hechas las historias de usuario en miro, en jira creamos 4 de esas historias para completar el primer sprint.
 Por defecto están en estado "por hacer".
+<br>
 <div style="display:flex; justify-content:space-between;">
     <img src="Captura3.PNG" alt="Captura 1" width="500"/>
 </div>
+<br>
 Poco a poco vamos poniendo las historias en curso.
+<br>
 <div style="display:flex; justify-content:space-between;">
     <img src="Captura4.PNG" alt="Captura 1" width="500"/>
 </div>
-Una vez llegado a la fecha de finalización decidida por nosotros, se terminan.
 <div style="display:flex; justify-content:space-between;">
     <img src="Captura5.PNG" alt="Captura 1" width="500"/>
 </div>
@@ -42,7 +45,9 @@ Una vez llegado a la fecha de finalización decidida por nosotros, se terminan.
 <div style="display:flex; justify-content:space-between;">
     <img src="Captura7.PNG" alt="Captura 1" width="500"/>
 </div>
-
+<br>
+Una vez llegado a la fecha de finalización decidida por nosotros, se terminan.
+<br>
 <div style="display:flex; justify-content:space-between;">
     <img src="Captura8.PNG" alt="Captura 1" width="500"/>
 </div>
@@ -60,7 +65,7 @@ El proceso de poner en curso y finalizar las historias de usuario lo representam
 añadiendo en su readme cuándo se pone en curso y cuándo se finaliza la historia, haciendo merge con la rama desarrollo 
 para que se reúnan las modificaciones de cada uno.
 
-## Cuestiones <br>
+## Cuestiones ❔ <br>
 ### ❓ __¿Qué es el proyecto?__ <br>
 El proyecto consiste en la venta de fundas de ordenador, ofreciendo una variedad de opciones para diferentes tamaños y modelos de ordenador. Las fundas están diseñadas para proporcionar protección contra golpes, arañazos y elementos externos, manteniendo los dispositivos electrónicos seguros y en óptimas condiciones
 
