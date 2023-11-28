@@ -73,6 +73,12 @@ Creamos los epics acorde a todas las historias de usuario definidas en miro.
     <img src="Captura12.PNG" alt="Captura 1" width="500"/>
 </div>
 
+## Informe del trabajo
+Gráfico resumen del primer sprint. Cada historia de usuario se completó en el tiempo indicado.
+<div style="display:flex; justify-content:space-between;">
+    <img src="Captura13.PNG" alt="Captura 13" width="500"/>
+</div>
+
 ## Cuestiones ❔ <br>
 ### ❓ __¿Qué es el proyecto?__ <br>
 El proyecto consiste en la venta de fundas de ordenador, ofreciendo una variedad de opciones para diferentes tamaños y modelos de ordenador. Las fundas están diseñadas para proporcionar protección contra golpes, arañazos y elementos externos, manteniendo los dispositivos electrónicos seguros y en óptimas condiciones
@@ -88,9 +94,3 @@ Los usuarios pueden recibir ayuda con el proyecto a través de recursos en líne
 
 ### ❓ __¿Quién mantiene y contribuye con el proyecto?__ <br>
 El equipo es mantenido por nuestro equipo que incluye diseñador, desarrollador web, profesional de atención al cliente y marketing. Cada miembro desempeña un papel vital: los diseñadores crean fundas funcionales y atractivas, los desarrolladores mantienen el sitio web, el equipo de atención al cliente asiste a los usuarios y el equipo de marketing promociona el proyecto. La colaboración efectiva de estos garantiza el éxito continuo del proyecto.
-
-## Informe del trabajo
-Gráfico resumen del primer sprint. Cada historia de usuario se completó en el tiempo indicado.
-<div style="display:flex; justify-content:space-between;">
-    <img src="Captura13.PNG" alt="Captura 13" width="500"/>
-</div>
