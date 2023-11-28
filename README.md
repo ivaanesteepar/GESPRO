@@ -30,37 +30,37 @@ Una vez hechas las historias de usuario en miro, en jira creamos 4 de esas histo
 Por defecto están en estado "por hacer".
 
 <div style="display:flex; justify-content:space-between;">
-    <img src="Captura3.PNG" alt="Captura 1" width="500"/>
+    <img src="Captura3.PNG" alt="Captura 3" width="500"/>
 </div>
 <br>
 Poco a poco vamos poniendo las historias en curso.
 <br>
 <div style="display:flex; justify-content:space-between;">
-    <img src="Captura4.PNG" alt="Captura 1" width="500"/>
+    <img src="Captura4.PNG" alt="Captura 4" width="500"/>
 </div>
 <div style="display:flex; justify-content:space-between;">
-    <img src="Captura5.PNG" alt="Captura 1" width="500"/>
+    <img src="Captura5.PNG" alt="Captura 5" width="500"/>
 </div>
 <div style="display:flex; justify-content:space-between;">
-    <img src="Captura6.PNG" alt="Captura 1" width="500"/>
+    <img src="Captura6.PNG" alt="Captura 6" width="500"/>
 </div>
 <div style="display:flex; justify-content:space-between;">
-    <img src="Captura7.PNG" alt="Captura 1" width="500"/>
+    <img src="Captura7.PNG" alt="Captura 7" width="500"/>
 </div>
 <br>
 Una vez llegado a la fecha de finalización decidida por nosotros, se terminan.
 <br>
 <div style="display:flex; justify-content:space-between;">
-    <img src="Captura8.PNG" alt="Captura 1" width="500"/>
+    <img src="Captura8.PNG" alt="Captura 8" width="500"/>
 </div>
 <div style="display:flex; justify-content:space-between;">
-    <img src="Captura9.PNG" alt="Captura 1" width="500"/>
+    <img src="Captura9.PNG" alt="Captura 9" width="500"/>
 </div>
 <div style="display:flex; justify-content:space-between;">
-    <img src="Captura10.PNG" alt="Captura 1" width="500"/>
+    <img src="Captura10.PNG" alt="Captura 10" width="500"/>
 </div>
 <div style="display:flex; justify-content:space-between;">
-    <img src="Captura11.PNG" alt="Captura 1" width="500"/>
+    <img src="Captura11.PNG" alt="Captura 11" width="500"/>
 </div>
 
 El proceso de poner en curso y finalizar las historias de usuario lo representamos creando cada uno una rama y
@@ -90,3 +90,7 @@ Los usuarios pueden recibir ayuda con el proyecto a través de recursos en líne
 El equipo es mantenido por nuestro equipo que incluye diseñador, desarrollador web, profesional de atención al cliente y marketing. Cada miembro desempeña un papel vital: los diseñadores crean fundas funcionales y atractivas, los desarrolladores mantienen el sitio web, el equipo de atención al cliente asiste a los usuarios y el equipo de marketing promociona el proyecto. La colaboración efectiva de estos garantiza el éxito continuo del proyecto.
 
 ## Informe del trabajo
+Gráfico resumen del primer sprint. Cada historia de usuario se completó en el tiempo indicado.
+<div style="display:flex; justify-content:space-between;">
+    <img src="Captura13.PNG" alt="Captura 13" width="500"/>
+</div>
