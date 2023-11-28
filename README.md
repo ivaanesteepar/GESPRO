@@ -68,7 +68,8 @@ añadiendo en su readme cuándo se pone en curso y cuándo se finaliza la histor
 para que se reúnan las modificaciones de cada uno.
 
 ### Cronograma
-Creamos los epics acorde a las 4 historias de usuario.
+<h2 color="blue">hola<h2>
+Creamos los epics acorde a todas las historias de usuario definidas en miro.
 <div style="display:flex; justify-content:space-between;">
     <img src="Captura12.PNG" alt="Captura 1" width="500"/>
 </div>
