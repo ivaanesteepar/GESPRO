@@ -35,6 +35,7 @@ Después, definimos una serie de funcionalidades para el proyecto ganador para l
     <img src="Captura2.PNG" alt="Captura 2" width="500"/>
 </div>
 <br>
+Creamos esas hisotrias de usuario elegidas en la votación previa.
 <div style="display:flex; justify-content:space-between;">
     <img src="Captura14.PNG" alt="Captura 14" width="500"/>
 </div>
