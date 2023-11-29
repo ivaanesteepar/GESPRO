@@ -35,6 +35,14 @@ Después, definimos una serie de funcionalidades para el proyecto ganador para l
     <img src="Captura2.PNG" alt="Captura 2" width="500"/>
 </div>
 <br>
+<div style="display:flex; justify-content:space-between;">
+    <img src="Captura14.PNG" alt="Captura 2" width="500"/>
+</div>
+<br>
+<div style="display:flex; justify-content:space-between;">
+    <img src="Captura15.PNG" alt="Captura 2" width="500"/>
+</div>
+<br>
 Una vez hechas las historias de usuario en miro, en jira creamos 4 de esas historias para completar el primer sprint.
 Por defecto están en estado "por hacer".
 
