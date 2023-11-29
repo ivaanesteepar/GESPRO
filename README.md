@@ -10,7 +10,7 @@ Historia de Diferentes formatos de la funda empezada el 23/11/2023
 <br>
 Historia de Diferentes formatos de la funda finalizada el 27/11/2023
 <br><br>
-Historia de Desarrollo de la pagina web empezada el 23/11/2023.
+Historia de Desarrollo de la pagina web empezada el 23/11/2023..
 <br>
 Historia de Desarrollo de pagina web finalizada el 27/11/2023
 <br><br>
