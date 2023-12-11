@@ -1,8 +1,4 @@
-# GESPRO
-[![Contributors](https://img.shields.io/github/contributors/ivaanesteepar/GESPRO_4)](https://github.com/ivaanesteepar/GESPRO_4/graphs/contributors)
-
-🟠 URL GITHUB: https://github.com/ivaanesteepar/GESPRO_4
-<br>
+=======
 🟠 URL JIRA: https://ier1003.atlassian.net/jira/software/projects/GESP1/boards/2/backlog
 
 ## ✍️ Historias de usuario ✍️
@@ -25,6 +21,8 @@ Historia de Cesta de la compra finalizada el 27/11/2023
 <br><br>
 ### SPRINT 2
 Historia de Sistema de calificaciones y opiniones empezada el 07/12/2023
+<br>
+Hstoria de Sistema de calificaciones y opiniones empezada el 07/12/2023
 <br><br>
 Historia de Logo empezada el 09/12/2023
 <br>
