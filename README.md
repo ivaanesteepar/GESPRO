@@ -1,5 +1,4 @@
 # GESPRO
-
 [![Contributors](https://img.shields.io/github/contributors/ivaanesteepar/GESPRO_4)](https://github.com/ivaanesteepar/GESPRO_4/graphs/contributors)
 
 🟠 URL GITHUB: https://github.com/ivaanesteepar/GESPRO_4
@@ -32,6 +31,8 @@ Historia de Logo empezada el 09/12/2023
 Historia de Logo finalizada el 10/12/2023
 <br><br>
 Historia de Pantalla que muestre el diseño futuro de la funda empezada el 11/12/2023
+<br>
+Historia de Diferentes diseños de color empezada el 11/12/2023
 <br>
 
 ## 👣 Pasos realizados hasta el momento 👣
