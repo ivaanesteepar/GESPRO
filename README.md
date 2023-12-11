@@ -98,6 +98,13 @@ Una vez llegado a la fecha de finalización decidida por nosotros, se terminan.
 <div style="display:flex; justify-content:space-between;">
     <img src="Captura11.PNG" alt="Captura 11" width="500"/>
 </div>
+Capturas del sprint 2:
+<div style="display:flex; justify-content:space-between;">
+    <img src="EnCursoSistCalif" alt="Captura 12" width="500"/>
+</div>
+<div style="display:flex; justify-content:space-between;">
+    <img src="ListoSistCalif" alt="Captura 12" width="500"/>
+</div>
 
 El proceso de poner en curso y finalizar las historias de usuario lo representamos creando cada uno una rama y
 añadiendo en su readme cuándo se pone en curso y cuándo se finaliza la historia, haciendo merge con la rama desarrollo
