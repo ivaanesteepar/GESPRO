@@ -6,6 +6,7 @@
 🟠 URL JIRA: https://ier1003.atlassian.net/jira/software/projects/GESP1/boards/2/backlog
 
 ## ✍️ Historias de usuario ✍️
+# SPRINT 1
 Historia de Diferentes formatos de la funda empezada el 23/11/2023
 <br>
 Historia de Diferentes formatos de la funda finalizada el 27/11/2023
@@ -21,6 +22,8 @@ Historia de Tienda fisica finalizada el 28/11/2023
 Historia de Cesta de la compra empezada el 24/11/2023
 <br>
 Historia de Cesta de la compra finalizada el 27/11/2023
+
+# SPRINT 2 
 
 ## 👣 Pasos realizados hasta el momento 👣
 ### ✏ Backlog
