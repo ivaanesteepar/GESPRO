@@ -108,7 +108,7 @@ para que se reúnan las modificaciones de cada uno.
 Creamos los epics acorde a todas las historias de usuario definidas en miro.
 
 <div style="display:flex; justify-content:space-between;">
-    <img src="Captura12.PNG" alt="Captura 12" width="500"/>
+    <img src="Captura12nueva.PNG" alt="Captura 12" width="500"/>
 </div>
 
 ### ✏ Informe del trabajo
