@@ -100,10 +100,10 @@ Una vez llegado a la fecha de finalización decidida por nosotros, se terminan.
 </div>
 Capturas del sprint 2:
 <div style="display:flex; justify-content:space-between;">
-    <img src="EnCursoSistCalif.PNG" alt="Captura 12" width="500"/>
+    <img src="EnCursoSistCalif.png" alt="EnCursoSistCalif.png" width="500"/>
 </div>
 <div style="display:flex; justify-content:space-between;">
-    <img src="ListoSistCalif.PNG" alt="Captura 12" width="500"/>
+    <img src="ListoSistCalif.png" alt="ListoSistCalif.png" width="500"/>
 </div>
 
 El proceso de poner en curso y finalizar las historias de usuario lo representamos creando cada uno una rama y
