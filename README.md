@@ -27,7 +27,7 @@ Historia de Cesta de la compra finalizada el 27/11/2023
 ### SPRINT 2
 Historia de Sistema de calificaciones y opiniones empezada el 07/12/2023
 <br><br>
-Hstoria de Logo empezada el 09/12/2023
+Historia de Logo empezada el 09/12/2023
 <br>
 Historia de Logo finalizada el 10/12/2023
 <br><br>
