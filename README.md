@@ -36,6 +36,8 @@ Historia de Pantalla que muestre el diseño futuro de la funda empezada el 11/12
 <br>
 Historia de Diferentes diseños de color empezada el 11/12/2023
 <br>
+Historia de Diferentes diseños de color finalizada el 24/12/2023
+<br>
 
 ## 👣 Pasos realizados hasta el momento 👣
 
