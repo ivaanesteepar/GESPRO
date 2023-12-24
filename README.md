@@ -105,6 +105,9 @@ Capturas del sprint 2:
 <div style="display:flex; justify-content:space-between;">
     <img src="ListoSistCalif.png" alt="ListoSistCalif.png" width="500"/>
 </div>
+<div style="display:flex; justify-content:space-between;">
+    <img src="Captura17.PNG" alt="Captura 17" width="500"/>
+</div>
 
 El proceso de poner en curso y finalizar las historias de usuario lo representamos creando cada uno una rama y
 añadiendo en su readme cuándo se pone en curso y cuándo se finaliza la historia, haciendo merge con la rama desarrollo
