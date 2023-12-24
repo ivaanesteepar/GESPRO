@@ -33,7 +33,7 @@ Historia de Logo empezada el 09/12/2023
 Historia de Logo finalizada el 10/12/2023
 <br><br>
 Historia de Pantalla que muestre el diseño futuro de la funda empezada el 11/12/2023
-<br>
+<br><br>
 Historia de Diferentes diseños de color empezada el 11/12/2023
 <br>
 Historia de Diferentes diseños de color finalizada el 24/12/2023
