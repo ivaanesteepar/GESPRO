@@ -39,8 +39,6 @@ Historia de Diferentes diseños de color empezada el 11/12/2023
 Historia de Diferentes diseños de color finalizada el 24/12/2023
 <br>
 
-### SPRINT 2 
-
 ## 👣 Pasos realizados hasta el momento 👣
 
 ### ✏ Backlog
