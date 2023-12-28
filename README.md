@@ -131,9 +131,11 @@ Gráfico resumen del primer sprint. Cada historia de usuario se completó en el 
     <img src="Captura13.PNG" alt="Captura 13" width="500"/>	
 </div>
 
+<br>
 Gráfico resumen del segundo sprint. Cada historia de usuario se completó en el tiempo indicado.
+
 <div style="display:flex; justify-content:space-between;">
-    <img src="Captura18.PNG" alt="Captura 18" width="500"/>
+    <img src="Captura18.png" alt="Captura 18" width="500"/>
 </div>
 
 ## Cuestiones ❔ <br>
