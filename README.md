@@ -109,7 +109,7 @@ Una vez llegado a la fecha de finalización decidida por nosotros, se terminan.
 </div>
 <br>
 
-### Capturas del sprint 2:
+#### Capturas del sprint 2:
 <div style="display:flex; justify-content:space-between;">
     <img src="EnCursoSistCalif.png" alt="EnCursoSistCalif.png" width="500"/>
 </div>
