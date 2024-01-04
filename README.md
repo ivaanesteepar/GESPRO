@@ -1,4 +1,5 @@
 # GESPRO
+
 [![Contributors](https://img.shields.io/github/contributors/ivaanesteepar/GESPRO_4)](https://github.com/ivaanesteepar/GESPRO_4/graphs/contributors)
 
 🟠 URL GITHUB: https://github.com/ivaanesteepar/GESPRO_4
@@ -6,7 +7,9 @@
 🟠 URL JIRA: https://ier1003.atlassian.net/jira/software/projects/GESP1/boards/2/backlog
 
 ## ✍️ Historias de usuario ✍️
+
 ### SPRINT 1
+
 Historia de Diferentes formatos de la funda empezada el 23/11/2023
 <br>
 Historia de Diferentes formatos de la funda finalizada el 27/11/2023
@@ -23,7 +26,9 @@ Historia de Cesta de la compra empezada el 24/11/2023
 <br>
 Historia de Cesta de la compra finalizada el 27/11/2023
 <br><br>
+
 ### SPRINT 2
+
 Historia de Sistema de calificaciones y opiniones empezada el 07/12/2023
 <br>
 Historia de Sistema de calificaciones y opiniones finalizada el 11/12/2023
@@ -33,6 +38,8 @@ Historia de Logo empezada el 09/12/2023
 Historia de Logo finalizada el 10/12/2023
 <br><br>
 Historia de Pantalla que muestre el diseño futuro de la funda empezada el 11/12/2023
+<br>
+Historia de Pantalla que muestre el diseño futuro de la funda finalizada el 22/12/2023
 <br><br>
 Historia de Diferentes diseños de color empezada el 11/12/2023
 <br>
@@ -128,7 +135,14 @@ Creamos los epics acorde a todas las historias de usuario definidas en miro.
 Gráfico resumen del primer sprint. Cada historia de usuario se completó en el tiempo indicado.
 
 <div style="display:flex; justify-content:space-between;">
-    <img src="Captura13.PNG" alt="Captura 13" width="500"/>
+    <img src="Captura13.PNG" alt="Captura 13" width="500"/>	
+</div>
+
+<br>
+Gráfico resumen del segundo sprint. Cada historia de usuario se completó en el tiempo indicado.
+
+<div style="display:flex; justify-content:space-between;">
+    <img src="Captura18.png" alt="Captura 18" width="500"/>
 </div>
 
 ## Cuestiones ❔ <br>
