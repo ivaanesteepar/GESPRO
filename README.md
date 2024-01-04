@@ -107,7 +107,7 @@ Una vez llegado a la fecha de finalización decidida por nosotros, se terminan.
 <div style="display:flex; justify-content:space-between;">
     <img src="Captura11.PNG" alt="Captura 11" width="500"/>
 </div>
-Capturas del sprint 2:
+## Capturas del sprint 2:
 <div style="display:flex; justify-content:space-between;">
     <img src="EnCursoSistCalif.png" alt="EnCursoSistCalif.png" width="500"/>
 </div>
